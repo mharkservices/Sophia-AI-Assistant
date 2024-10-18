@@ -3,6 +3,7 @@ Sophia is a desktop AI assistant built using Python that can perform various tas
 
 ## Demo Video
 You can check out the demo by clicking on the below image
+
 [![Demo Video](https://github.com/user-attachments/assets/b54a65c4-1deb-40e1-b957-772285d14c54)](https://youtu.be/dgCYDETwjcs)
 
 
