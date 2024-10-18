@@ -1,11 +1,10 @@
-![image](https://github.com/user-attachments/assets/b54a65c4-1deb-40e1-b957-772285d14c54)
-
-
 # Sophia AI Assistant
 Sophia is a desktop AI assistant built using Python that can perform various tasks such as answering questions like ChatGPT, opening desktop applications, browsing websites, and even making phone and WhatsApp calls. This project is designed to be versatile and extensible, with the ability to add more functionalities easily. It integrates the Hugging Face API, a free ChatGPT alternative to simulate conversation, and offers multiple activation methods for user commands.
 
-__This project is part of a complete YouTube tutorial series where I guide you through building an AI assistant step by step. You can check out the full playlist and follow along!__
-### 📺 [Watch the Full YouTube Tutorial Series](https://www.youtube.com/playlist?list=PLoGk-8pBKSRVWvGN372yBzrF15tSv22KY)
+## Demo Video
+You can check out the demo by clicking on the below image
+[![Demo Video](https://github.com/user-attachments/assets/b54a65c4-1deb-40e1-b957-772285d14c54)](https://youtu.be/dgCYDETwjcs)
+
 
 ## Features
 
@@ -85,7 +84,6 @@ zope.interface==6.4.post2
    git clone https://github.com/yourusername/sophia-ai-assistant.git
    cd sophia-ai-assistant
 ```
+__To install the necessary dependencies and set up the API and database, I recommend checking out my YouTube tutorial series where I walk you through the entire process of building an AI assistant.__
 
-**YouTube Tutorial**
-For a detailed step-by-step guide on how to build this AI assistant, follow my YouTube tutorial series. I cover every aspect, from setting up the environment to adding advanced features like voice commands and integrating APIs.
-
+### 📺 [Watch the Full YouTube Tutorial Series](https://www.youtube.com/playlist?list=PLoGk-8pBKSRVWvGN372yBzrF15tSv22KY)
